@@ -1,2 +1,2 @@
 # i3-config
-![alt text](https://cdn.discordapp.com/attachments/991271846714556486/991441314610688230/rice.png)
+![alt text](https://media.discordapp.net/attachments/912062277950275594/1018288352266555512/rice_001.png?width=700&height=394)
